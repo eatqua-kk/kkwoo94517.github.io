@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -103,28 +103,28 @@ analytics:
 # Site Author
 author:
   name             : "Kim Geon Woo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/face.jpg"
   bio              : "안녕하세요 !"
   location         : "서울, 구로"
   email            : "kkwoo94517@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-    #  url: kkwoo94517@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+       url: kkwoo94517@gmail.com
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
     #   url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-    #  url: "https://www.facebook.com/profile.php?id=100003639022479"
+       url: https://www.facebook.com/profile.php?id=100003639022479
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-    #  url: "https://github.com/kkwoo94517"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: https://github.com/kkwoo94517
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
 # Site Footer
