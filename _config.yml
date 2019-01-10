@@ -19,7 +19,7 @@ title                    : " 동네꼬기의 블로그 "
 title_separator          : "-"
 name                     : "Kim Geon Woo"
 description              : "잘 부탁드립니다."
-url                      : "https://devBlog.github.io"# the base hostname & protocol for your site e.g.
+url                      : "https://kkwoo94517.github.io"# the base hostname & protocol for your site e.g.
 baseurl                  : ""# the subpath of your site, e.g.
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
