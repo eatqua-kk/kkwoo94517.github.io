@@ -107,7 +107,7 @@ author:
   avatar           :  "/assets/images/face.jpg"
   bio              : "94년생.</br>Game Client Developer</br>Unity, Unreal, C#, C++"
   location         : "서울"
-  email            : "kkwoo94517@gmail.com"
+  # email            : "kkwoo94517@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
