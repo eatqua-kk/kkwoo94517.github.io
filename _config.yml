@@ -14,14 +14,14 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "utf-8"
+locale                   : "ko"
 title                    : " 동네꼬기의 블로그 "
 title_separator          : "-"
 name                     : "Kim Geon Woo"
 description              : "잘 부탁드립니다."
 url                      : "https://kkwoo94517.github.io"# the base hostname & protocol for your site e.g.
 baseurl                  : ""# the subpath of your site, e.g.
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "kkwoo94517/kkwoo94517.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-    #   url: "kkwoo94517@gmail.com"
+       url: "kkwoo94517@gmail.com"
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #   url: "https://your-website.com"
@@ -119,10 +119,10 @@ author:
     #   url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-    #   url: "https://www.facebook.com/profile.php?id=100003639022479"
+       url: "kkwoo94517"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-    #  url: "https://github.com/kkwoo94517"
+      url: "kkwoo94517"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -130,23 +130,23 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
     #   url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-    #    url: "https://www.facebook.com/profile.php?id=100003639022479"
+        url: "kkwoo94517"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/kkwoo94517"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+       url: "kkwoo94517"
+    #- label: "GitLab"
+    #  icon: "fab fa-fw fa-gitlab"
     #   url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    #- label: "Bitbucket"
+    #  icon: "fab fa-fw fa-bitbucket"
     #   url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
     #   url:
 
 
@@ -286,6 +286,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
