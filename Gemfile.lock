@@ -106,6 +106,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 3.5)
+  jekyll-include-cache
   minimal-mistakes-jekyll
 
 BUNDLED WITH
