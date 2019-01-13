@@ -108,9 +108,6 @@ author:
   location         : "서울, 구로"
   email            : "kkwoo94517@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-       url: kkwoo94517@gmail.com
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #   url: "https://your-website.com"
@@ -119,7 +116,7 @@ author:
     #   url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "kkwoo94517"
+       url: "https://www.facebook.com/profile.php?id=100003639022479"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kkwoo94517"
