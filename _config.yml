@@ -14,8 +14,7 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-# encoding                 : "utf-8"
-locale                   : "utf-8"
+locale                   : "ko"
 title                    : " 동네꼬기의 블로그 "
 title_separator          : "-"
 name                     : "Kim Geon Woo"
