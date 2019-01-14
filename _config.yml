@@ -299,3 +299,20 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
+      # Settings for deploy rake task
+# Username and repo of Github repo, e.g.
+# https://github.com/USERNAME/REPO.git
+# username defaults to ENV['GIT_NAME'] used by Travis
+# repo defaults to USERNAME.github.io
+# Branch defaults to "source" for USERNAME.github.io
+# or "master" otherwise
+safe: False
+lsi: False
+username: kkwoo94517 # Github Username
+repo: my_blog # Github repo name
+branch: master # 작업 브랜치를 설정
+relative_source: ../my_blog/ # 저는 repo 이름으로 설정했습니다.
+destination: ../posts # 빌드시 작업파일이 저장될 경로
+production_url: https://kkwoo94517.github.io/  # 사이트 URL
+source_url:  https://github.com/kkwoo94517/kkwoo94517.github.io # Github 저장소 URL
