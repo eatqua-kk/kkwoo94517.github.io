@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "VR Game | Magic Craft | 00"
+title:  "VR Game - Magic Craft - 00"
 date:   2019-01-14 11:02:25 +0900
 categories: VR
 toc: true #Table Of Contents 목차 보여줌

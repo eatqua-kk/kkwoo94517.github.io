@@ -67,6 +67,12 @@ task :preview do
       end
 
       loop { sleep 1000 }
+	  
+# Generate the site
+    sh "bundle exec jekyll build"
+# Run Algolia 
+    sh "bundle exec jekyll algolia"
+	
     end
   rescue ThreadError
     # You pressed Ctrl-C, oh my!
