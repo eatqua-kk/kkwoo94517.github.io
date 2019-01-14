@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Test jekyll !"
-date:   2019-01-13 22:40:25 +0900
-categories: jekyll update
+title:  "VR Game | Magic Craft | 00"
+date:   2019-01-14 11:02:25 +0900
+categories: VR
+toc: true #Table Of Contents 목차 보여줌
+author_profile: true #작성자 프로필 출력여부
 ---
 테스트용 파일입니다.
